@@ -78,8 +78,8 @@ tr:nth-child(even) {
 }
 
 .icon {
-    background: url("images/icon.jpg");
-    height: 20px;
-    width: 20px;
     display: block;
+    display: flex;
+    background-color: white;
+    align-items: center;
 }
