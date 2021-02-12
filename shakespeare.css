@@ -69,3 +69,10 @@ th {
 tr:nth-child(even) {
     background-color: #e2e2e2;
 }
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: yellowgreen;
+}
