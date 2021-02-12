@@ -46,7 +46,7 @@ p {
 }
 
 .desc:hover {
-    background-color: rgb(182, 113, 146);
+    background-color: #609AB8;
 }
 
 table,
@@ -70,7 +70,7 @@ tr:nth-child(even) {
     background-color: #e2e2e2;
 }
 
-a {
+.links {
     text-decoration: none;
     display: inline-block;
     padding: 8px 16px;
