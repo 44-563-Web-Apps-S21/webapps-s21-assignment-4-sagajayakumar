@@ -1,13 +1,38 @@
 /* shakespeare play spreedsheet */
-h4 a:hover { background-color:rgb(243, 17, 17);
-    color:black;
 
+.speed {
+    color: rgb(38, 106, 138);
+    font-family: initial;
+    font-size: 100%;
 }
 
-h5 {
-    color:blue;
+.valentine {
+    color: rgb(38, 138, 76);
+    font-family: initial;
+    font-size: 100%;
+}
+
+h2 {
+    font-family: Apple Chancery, cursive;
 }
 
 p {
-    color:black;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+.direction {
+    color: rgb(243, 26, 26);
+    font-size: 120%;
+}
+
+.desc {
+    background-color: rgb(205, 223, 226);
+    font-family: cursive;
+    font-size: 90%;
+}
+
+.desc:hover {
+    background-color: rgb(182, 113, 146);
 }
