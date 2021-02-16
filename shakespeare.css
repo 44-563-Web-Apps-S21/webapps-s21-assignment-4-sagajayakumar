@@ -1,12 +1,14 @@
 /* shakespeare play spreedsheet */
 
 .speed {
+    color: black;
     color: rgb(38, 106, 138);
     font-family: initial;
     font-size: 100%;
 }
 
 .valentine {
+    color: black;
     color: rgb(38, 138, 76);
     font-family: initial;
     font-size: 100%;
@@ -35,6 +37,7 @@ p {
 }
 
 .direction {
+    color: black;
     color: rgb(243, 26, 26);
     font-size: 120%;
 }
